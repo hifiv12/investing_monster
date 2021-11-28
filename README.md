@@ -5,10 +5,10 @@
 - 해당 카테고리의 투자 시장/투자 용어/모델 및 업종 분석과 영향 관계를 정리
 - 카테고리 개설 분야
 1. [증권](/stock)
-2. [펀드](/fund)
-3. [부동산](/real_estate)
+2. [암호화폐](/crypto_currency)
+3. [펀드](/fund)
 4. [환율](/exchange_rate)
 5. [금속](/metal)
 6. [원자재](/raw_materials)
 7. [컨텐츠](/contents) 
-8. [암호화폐](/crypto_currency)
+8. [부동산](/real_estate)
