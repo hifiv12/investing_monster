@@ -12,3 +12,5 @@
 6. [원자재](/raw_materials)
 7. [컨텐츠](/contents) 
 8. [부동산](/real_estate)
+
+- 순차대로 업데이트 예정 될 예정
