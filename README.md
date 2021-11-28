@@ -11,3 +11,4 @@
 5. [금속](/metal)
 6. [원자재](/raw_materials)
 7. [컨텐츠](/contents) 
+8. [암호화폐](/crypto_currency)
