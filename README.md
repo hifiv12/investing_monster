@@ -4,7 +4,7 @@
 - [증권](/stock)
 - [펀드](/fund)
 - [부동산](/real_estate)
-- [환율](/exchage_rate)
+- [환율](/exchange_rate)
 - [금속](/metal)
 - [원자재](/raw_materials)
 - [컨텐츠](/contents) 
